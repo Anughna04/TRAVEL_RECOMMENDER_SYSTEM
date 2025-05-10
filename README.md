@@ -5,7 +5,7 @@
 TravelMate is a mood-aware travel recommendation app built with Streamlit and LLMs (Groq API models like LLaMA3 and Mixtral). It detects user mood using sentiment analysis, factors in location, time of day, personal preferences, and generates personalized travel or activity suggestions. Perfect for spontaneous plans, mood-lifters, or self-care trips!
 
 ## 🎥 Demo Video
-![Demo GIF](SmartHireX_demo.gif)
+![Demo GIF](TRAVELMATE_demo.gif)
 
 ## 📌 Features
 - ✅ Sentiment-Aware Suggestions – Uses TextBlob to classify user mood and tailor activity recommendations.
