@@ -1,0 +1,6 @@
+streamlit
+geocoder
+textblob
+groq
+python-dotenv
+nltk
